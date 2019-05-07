@@ -1,0 +1,121 @@
+[19-Apr-2019 15:36:23 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[19-Apr-2019 15:37:55 Africa/Nairobi] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xllhzwhu/public_html/App/include/webHandler.php on line 324
+[19-Apr-2019 15:38:15 Africa/Nairobi] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xllhzwhu/public_html/App/include/webHandler.php on line 324
+[19-Apr-2019 15:39:05 Africa/Nairobi] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xllhzwhu/public_html/App/include/webHandler.php on line 324
+[19-Apr-2019 18:25:10 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/header.php on line 5
+[19-Apr-2019 18:25:10 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[29-Apr-2019 15:24:47 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/header.php on line 5
+[29-Apr-2019 15:24:48 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[30-Apr-2019 13:46:17 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/header.php on line 5
+[30-Apr-2019 13:46:17 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[30-Apr-2019 15:28:40 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/header.php on line 5
+[30-Apr-2019 15:28:40 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[30-Apr-2019 15:30:27 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/header.php on line 5
+[30-Apr-2019 15:30:27 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[30-Apr-2019 17:36:26 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/header.php on line 5
+[30-Apr-2019 17:36:26 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[30-Apr-2019 17:36:26 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[30-Apr-2019 17:36:57 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[30-Apr-2019 17:37:28 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[30-Apr-2019 17:50:51 Africa/Nairobi] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xllhzwhu/public_html/App/include/webHandler.php on line 324
+[02-May-2019 21:30:59 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/xllhzwhu/public_html/App/admin/index.php on line 69
+[02-May-2019 21:31:20 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/xllhzwhu/public_html/App/admin/index.php on line 69
+[02-May-2019 21:31:26 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/xllhzwhu/public_html/App/admin/index.php on line 69
+[03-May-2019 12:48:35 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/header.php on line 5
+[03-May-2019 12:48:35 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[03-May-2019 12:58:44 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/header.php on line 5
+[03-May-2019 12:58:44 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[03-May-2019 13:00:27 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[03-May-2019 14:04:33 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/header.php on line 5
+[03-May-2019 14:04:33 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[03-May-2019 14:05:00 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[03-May-2019 14:22:15 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[03-May-2019 14:23:39 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[03-May-2019 14:24:49 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[03-May-2019 14:25:46 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[03-May-2019 14:30:57 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[03-May-2019 14:32:09 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[03-May-2019 14:35:17 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[03-May-2019 14:37:49 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[03-May-2019 14:47:33 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[03-May-2019 15:09:16 Africa/Nairobi] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xllhzwhu/public_html/App/include/webHandler.php on line 324
+[03-May-2019 15:09:24 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/logout.php on line 7
+[03-May-2019 15:09:24 Africa/Nairobi] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xllhzwhu/public_html/App/include/webHandler.php on line 324
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:47:51 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:11 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:48:53 Africa/Nairobi] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xllhzwhu/public_html/App/include/webHandler.php on line 324
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 18:49:07 Africa/Nairobi] PHP Notice:  Undefined index: user_type in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[03-May-2019 19:00:34 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[04-May-2019 09:40:04 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/header.php on line 5
+[04-May-2019 09:40:04 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[04-May-2019 09:40:05 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[04-May-2019 09:40:05 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[04-May-2019 09:40:05 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[04-May-2019 09:40:05 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[04-May-2019 09:40:05 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[04-May-2019 09:40:05 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[04-May-2019 09:40:05 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[04-May-2019 09:40:05 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[04-May-2019 09:40:05 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[04-May-2019 09:40:05 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[04-May-2019 09:40:05 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[04-May-2019 09:42:53 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/deleteProperty.php on line 10
+[04-May-2019 09:42:57 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/deleteProperty.php on line 10
+[04-May-2019 09:58:14 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/deleteProperty.php on line 10
+[04-May-2019 09:58:35 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/deleteProperty.php on line 10
+[04-May-2019 10:00:53 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[04-May-2019 10:01:39 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[04-May-2019 10:02:09 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[04-May-2019 10:02:55 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[04-May-2019 10:04:19 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[04-May-2019 10:05:24 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/deleteProperty.php on line 10
+[04-May-2019 10:05:33 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/deleteProperty.php on line 10
+[04-May-2019 10:08:11 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[06-May-2019 13:21:48 Africa/Nairobi] PHP Notice:  Undefined index: userId in /home/xllhzwhu/public_html/App/admin/header.php on line 5
+[06-May-2019 13:21:48 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/header.php on line 103
+[06-May-2019 13:21:48 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[06-May-2019 13:21:48 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[06-May-2019 13:21:48 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[06-May-2019 13:21:48 Africa/Nairobi] PHP Notice:  Undefined index: userType in /home/xllhzwhu/public_html/App/admin/index.php on line 59
+[06-May-2019 13:46:30 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[06-May-2019 13:54:18 Africa/Nairobi] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/xllhzwhu/public_html/App/admin/addProperty.php on line 65
+[06-May-2019 13:55:03 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[06-May-2019 13:56:29 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[06-May-2019 14:08:29 Africa/Nairobi] PHP Warning:  unlink(../): Is a directory in /home/xllhzwhu/public_html/App/admin/saveEditProperty.php on line 31
+[06-May-2019 14:15:03 Africa/Nairobi] PHP Notice:  Undefined variable: errorUploadType in /home/xllhzwhu/public_html/App/admin/editImages.php on line 38
